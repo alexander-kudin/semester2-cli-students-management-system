@@ -1,2 +1,2 @@
-# Student Management System CLI Application
+# Students Management System CLI Application
  
