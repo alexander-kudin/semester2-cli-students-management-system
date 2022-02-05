@@ -1,2 +1,2 @@
-# semester2-cli-students-management-system
+# Student Management System CLI Application
  
